@@ -102,25 +102,9 @@ Struktur repository yang direncanakan:
 │           └── admin/
 │
 ├── backend/                        # REST API & database
-│   ├── src/
-│   ├── migrations/
-│   └── ...
-│
-├── Keperluan Dokumen/              # RPL documentation
-│   ├── Dokumentasi_RPL_Kelompok12.tex
-│   ├── Rancangan_FR_dan_Database_Kelompok12.docx
-│   ├── Database_RPL(Kelompok12) (2).docx
-│   │
-│   ├── Diagram_Mermaid/
-│   │   ├── *.mmd
-│   │   └── ...
-│   │
-│   └── Image/
-│       └── ...
-│
-└── README.md
-```
-
+    ├── src/
+    ├── migrations/
+    └── ...
 ---
 
 # 📚 Project Documentation
