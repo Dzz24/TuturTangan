@@ -94,7 +94,7 @@ flutter analyze                  # static analysis
 
 - Project Leader: Dzikri Fakhry
 - Anggota: Syifa Azzahra, Farell Tirtawijaya, Srikandi Rahmawati, Jovianie Felisia Suryadi
-- Sponsor: Dr. Mira Suryani, S.Pd., M.Kom. — Owner: Hafizh Fadhl Muhammad
+- Sponsor: Dr. Mira Suryani, S.Pd., M.Kom.
 
 ## Lisensi
 
