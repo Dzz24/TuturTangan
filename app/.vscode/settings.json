@@ -1,0 +1,13 @@
+{
+  "dart.flutterSdkPath": "D:\\flutter",
+  "dart.openDevTools": "flutter",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll": "explicit" },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  }
+}
