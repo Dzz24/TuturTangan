@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "TuturTangan (debug)", "request": "launch", "type": "dart" },
+    { "name": "TuturTangan (profile)", "request": "launch", "type": "dart", "flutterMode": "profile" },
+    { "name": "TuturTangan (release)", "request": "launch", "type": "dart", "flutterMode": "release" },
+    { "name": "Edge (web)", "request": "launch", "type": "dart", "deviceId": "edge" }
+  ]
+}
